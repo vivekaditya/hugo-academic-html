@@ -742,7 +742,8 @@ footer p {
 
 .site-footer,
 footer a#back_to_top i {
-  color: #899596;
+  color: #3dade5;
+  /*color: #899596;*/
 }
 
 /*************************************************
@@ -892,10 +893,11 @@ nav#navbar-main li {
 }
 
 .navbar-default .navbar-brand {
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   font-weight: bold;
   font-size: 1.2em;
-  color: #2b2b2b;
+  /*color: #2b2b2b;*/
+  color:#00334d;
 }
 
 @media screen and (max-width: 1200px) {
