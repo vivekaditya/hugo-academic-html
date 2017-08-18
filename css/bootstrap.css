@@ -305,7 +305,8 @@ body {
   font-size: 14px;
   line-height: 1.428571429;
   color: #002233;
-  background-color: #002233;
+  /*background-color: #002233;*/
+  background-color: #00334d;
   /*background-color: #ffffff;*/
 }
 
